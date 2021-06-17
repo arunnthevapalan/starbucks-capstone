@@ -2,6 +2,10 @@
 
 This repository consists of an analysis of Starbucks Offers, transactions and Customers and builds recommendions on the best offers to be sent to different customers. To read a more in-depth project walkthrough [checkout this article.](https://www.arunnthevapalan.com/starbucks-capstone/)
 
+**The final project report can be [found here.](/project_report.pdf)**
+
+**The project proposal can be [found here.](proposal.pdf)**
+
 
 ## Project Overview
 
