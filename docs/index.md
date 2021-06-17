@@ -139,7 +139,7 @@ Similarly to income, as people get older, the value of their transactions and th
   <img src="./images/eda3.png"/>
 </div>
 
-## Modeling
+## Implementation
 
 #### Knowledge based Recommendation System
 
@@ -186,7 +186,7 @@ def get_most_popular_offers_filtered(customers, n_top=2, q=0.5, income=None,
 ```
 Now that we have set up the recommendation with filters, let us see how well our recommendation work for different genders and income levels.
 
-## Evaluation
+## Results
 
 In reality, an A/B Test needs to be conducted to evaluate and validate the performance of the recommendations. Where one control groups received the offers based on recommendations and the other randomly. We then can measure the defined metrics, and statistically deem where there is a siginificant improvement in the added value. It is important to consider the practical significance as well, If these recommendation systems are successful we should see a significant improvement in customer/offer engagement as well as an increase in the purchase behavior of the customer. At this point, we evaluate the performance of our recommendations using visualizations of the same metrics below for some particular scenarios as seen below.
 
